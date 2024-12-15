@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+.content {
+    width: 800px;
+    background-color: white;
+    margin: 16px auto;
+}
+
+h1 {
+    font-size: 16px;
+}
+ul { 
+    text-align: center;
+    background-color: #FDFD96;
+}
+
+li {
+    text-align: left;
+    margin: 8px;
+    padding: 8px;
+}
